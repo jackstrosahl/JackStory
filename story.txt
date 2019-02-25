@@ -1,0 +1,1 @@
+Jack was tasked with writing a short paragraph for an assignment on git.  But, he didn't know what to write.  But then he thought, "Meta!"
